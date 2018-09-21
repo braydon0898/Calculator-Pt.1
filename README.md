@@ -1,2 +1,2 @@
-# Calculator-Pt.1
+# Calculator-Pt1
 Initial basic calculator code.
